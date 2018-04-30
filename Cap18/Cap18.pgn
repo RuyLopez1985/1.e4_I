@@ -1,0 +1,216 @@
+[Event "?"]
+[Site "?"]
+[Date "2017.08.19"]
+[Round "?"]
+[White "- Indíce de Variantes"]
+[Black "?"]
+[Result "*"]
+[ECO "C18"]
+[Annotator "Negi, P."]
+[PlyCount "16"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.08.19"]
+
+{Capítulo 18: Defensa Francesa, Variante Winawer. 8...Da5 y 8...Cbc6.} 1. e4 e6
+2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Bd3 -- ({A)
+} 8... Qa5) ({B)} 8... Nbc6 9. Qh5 -- ({B1)} 9... Nf5) ({B2)} 9... Ng6 10. Nf3
+Qc7 11. Be3 -- ({B21)} 11... Nce7 12. h4 -- ({B211)} 12... Bd7) ({B212)} 12...
+Nf5 13. Bd2 -- ({B2121)} 13... c4) ({B2122)} 13... f6))) ({B22)} 11... c4))) *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.08.19"]
+[Round "?"]
+[White "Pos. Crítica 1"]
+[Black "?"]
+[Result "*"]
+[ECO "C18"]
+[Annotator "Negi. P"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp4pp/2n1pp2/3pPP1Q/3P4/P1Pp1N2/2P2P1P/R1B1K2R w KQ - 0 13"]
+[PlyCount "1"]
+[SourceDate "2017.08.19"]
+
+{B1) nota a 10...c4.} 13. Bh6 $1 $146 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.08.19"]
+[Round "?"]
+[White "Pos. Crítica 2"]
+[Black "?"]
+[Result "*"]
+[ECO "C18"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "r4rk1/p1q1n1p1/1p2p1np/2ppPp2/b2P2PP/P1PBBN1Q/2P2P2/1R2K2R w K - 0 17"]
+[PlyCount "1"]
+[SourceDate "2017.08.19"]
+
+{B211) luego de 16...Aa4.} 17. Rc1 $1 $146 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.08.19"]
+[Round "?"]
+[White "Pos. Crítica 3"]
+[Black "?"]
+[Result "*"]
+[ECO "C18"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "r1b2rk1/ppq3pp/4ppn1/2ppPn1Q/3P3P/P1PB1N2/2PB1PP1/R3K2R w KQ - 0 14"]
+[PlyCount "1"]
+[SourceDate "2017.08.19"]
+
+{B2122) luego de 13...f6} 14. Qg4 $1 $146 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.08.19"]
+[Round "?"]
+[White "- Introducción"]
+[Black "?"]
+[Result "*"]
+[ECO "C18"]
+[Annotator "Negi, P."]
+[PlyCount "16"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Bd3
+{En este capítulo examinaremos aquellas lÃ^^neas donde el negro omite...f5 con
+la esperanza de resistir la iniciativa blanca en el FR e imponer sus ventajas
+posicionales en cualquier otro sitio.} -- ({Una de esas lÃ^^neas es A)} 8...
+Qa5 {pero la principal movida teÃ=/+rica es:}) ({B)} 8... Nbc6 {cobertura de
+la cuál esta dividida en este capítulo y el siguiente.}) ({Vale la pena
+mencionar brevemente que:} 8... c4 $2 9. Bh6 Ng6 10. Bxg6 fxg6 11. Be3 {da a
+las blancas una versión mucho mejor de la lineas principales con el centro
+bloqueado, como se ven en la variante B22 y todo la sección dedicada a 8...
+Cbc6. El blanco lanzara un ataque con h4-h5 y el intento de cambiar un par de
+torres con ...Tf5 se contesta con Ce2-g3 revelando porque el negro deberia
+esperar a Cf3 del blanco para entonces bloquear el centro.}) *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.08.19"]
+[Round "?"]
+[White "A) 8...Da5"]
+[Black "?"]
+[Result "*"]
+[ECO "C18"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "rnbq1rk1/pp2nppp/4p3/2ppP3/3P2Q1/P1PB4/2P2PPP/R1B1K1NR b KQ - 0 8"]
+[PlyCount "28"]
+
+8... Qa5 9. Bd2 ({El blanco también puede considerar:} 9. Ne2 $5 {cuando:} cxd4
+{transpone a otra variante. Sin embargo el negro tiene una opcion
+independiente en:} (9... Nbc6 $5 {es mas lógico tener 9.Ad2 como la movida
+preferida, en especial ya que el negro puede llevar la partida a esta posición
+mediante el ordén: 6...Da5 7.Ad2 Ce7 8.Dg4 0-0 9.Ad3.})) 9... Nbc6 {Esto puede
+lucir similar a las líneas con 8...Cbc6 pero la respuesta negra a Dh5 es
+completamente diferente en esta ocasión. Un par de movidas que vale la pena
+mencionar son:} (9... Nf5 {da a las blancas varias opciones pero Negi prefiere
+la inusual:} 10. Qh3 $5 {amezando g2-g4. La respuesta natural es:} c4 {y ahora
+luego de:} 11. Be2 $1 $146 {el blanco esta listo para avanzar en el FR.}) (9...
+f5 {El blanco tiene varias opciones aqui pero Negi presenta un modo seco de
+obtener ventaja aqui:} 10. exf6 Rxf6 11. Qh5 Nf5 (11... g6 {debilita el FR.}) (
+11... h6 $4 12. Qe8+ $18 {sería vergonzoso.}) 12. dxc5 $1 {evitando c4 y
+amenazando la mortal g2-g4.} g6 13. Qg5 Nd7 14. Nf3 e5 {el negro tiene que ser
+rápido con su contrajuego.} 15. c4 Qa4 (15... Qxc5 $2 {no pone mucha
+resistencia y:} 16. Bb4 Qc6 17. cxd5 Qxd5 18. Rd1 {dio a las blancas una
+posicion ganadora en una partida por correspondencia.}) 16. O-O $1 {Moskalenko
+señala el truco:} (16. cxd5 $2 h6 $19 {ganando la dama pero de la textual no
+dice nada.}) 16... e4 17. Bc3 Rf7 18. Rfe1 $1 exd3 19. cxd3 {las blancas
+tienen una iniciativa muy fuerte Lucki - Mroczek, corr. 2010.}) 10. Qh5 $5 ({
+La mas común:} 10. Nf3 {puede llevar a variantes insanas luego de:} f5 11. exf6
+Rxf6 12. Qh5 Nf5 {cuando el blanco continuará con una combinación de g2-g4,
+dxc5 y/o c3-c4. Puede que haya alguna idea fuerte de las blancas oculta en las
+complicaciones, pero no se ve la necesidad de caer en variantes tan teóricas
+en una línea secundaria.}) 10... h6 {Esta ha sido la respuesta habitual,
+explotando el hecho de que Axh6 no es posiblemente actualmente, aunque el
+blanco puede preparar la amenaza.} (10... Ng6 {Entendiblemente esto casi nunca
+ha sido jugado, ninguna de las partidas jugadas ha sido teóricamente
+importante, así que no se mencionan debajo.} 11. Nf3 c4 (11... Nce7 12. h4 c4
+13. Be2 $1 f6 14. Qg4 {da a las blancas una excelente posición que puede ser
+comparada con la variante B21.}) 12. Bxg6 (12. Ng5 {es una interesante
+recomendación de la computadora.} h6 13. Nxf7 Nf4 {de otro modo el negro
+pierde un peón.} 14. Nxh6+ gxh6 15. Qg4+ Kh8 16. Bf1 $1 {esto no es una movida
+soñada pero en ocasiones hay que confiar en la sugerencia de la computadora
+para calcular semejantes líneas. El blanco ganará el peón h también luego de
+lo cual su compensación parece formidable.}) 12... fxg6 13. Qg4 {El ataque
+típico con h4-h5 se viene y la dama negra en a5 no esta haciendo mucho. Si se
+compara esta posición con las líneas principales veremos que a pesar del
+optimismo de la computadora, la posición negra es poco placentera. Una línea
+posible es:} Qa4 14. Ra2 Bd7 15. h4 Rf5 {El único modo de lidiar con la
+amenaza h4-h5 pero el blanco puede aumentar la presión fácilmente.} 16. Ng5 {
+seguido de f2-f4 o sencillamente h4-h5. La posición negra luce extremadamente
+poco placentera.}) 11. dxc5 $5 (11. Nf3 {es mas popular pero:} c4 12. Be2 f6 {
+crea algunas complicaciones.}) 11... b6 (11... f5 {es la otra movida que ha
+sido jugada pero luego de:} 12. exf6 Rxf6 13. Qe8+ Rf8 14. Bh7+ $1 {el blanco
+gana la calidad.}) (11... Qxc5 {no permite al negro generar mucho contrajuego.
+El blanco sencillamente juega:} 12. Nf3 {seguido de 0-0, y la amenaza Axh6
+pronto se hará real.}) 12. Nf3 $1 $146 (12. cxb6 Ba6 {dió excelente
+compensación a las negras en dos partidas de Rustemov.}) 12... bxc5 (12... Ba6
+13. c4 $1 Qxc5 14. Bxh6 {destrozaría el FR negro.}) 13. c4 Qc7 14. O-O (14.
+Bxh6 gxh6 15. Qxh6 Ng6 {no funciona aún, pero una vez que el blanco haya
+enrocado esta listo para continuar esta secuencia con Cg5.}) 14... dxc4 15. Be4
+$1 {La amenaza Axh6 es una molestia constante para las negras.} Nd5 (15... Bb7
+$2 16. Bxh6 {es letal.}) (15... Nf5 $2 16. g4 Nfd4 17. Nxd4 cxd4 18. Bxh6 {
+también decide la partida.}) 16. Rfe1 $1 {El blanco tiene varias opciones
+interesantes, pero esta es la mejor de ellas. El blanco anticipa el plan con ..
+.f5 y una vez mas renueva la amenaza ...Axh6.} (16. Bxh6 gxh6 17. Qxh6 f5 {
+solo da a las blancas un jaque perpetuo.}) (16. Rad1 f5 17. exf6 Nxf6 18. Qh4
+Nxe4 19. Qxe4 Bb7 20. Qxe6+ Qf7 {es un poco peor para el negro pero mantiene
+chances decentes de defensa.}) 16... Nd4 17. Rab1 {El blanco tiene una
+posición mas fácil de jugar, ya que sus chances de ataque en el FR valen mas
+que el peon extra doblado del negro.} c3 ({En el caso de:} 17... Nxf3+ 18. Bxf3
+{el blanco puede jugar Dg4 y capturar el peón c4 a continuación.}) 18. Bg5 $5 (
+18. Bxh6 {lleva a brillanteces generadas por computadora bastante insanas que
+incluso no ganan para el blanco por lo que Negi se abstiene de presentarlas en
+su análisis. En vez de ello, luego de la movida textual la presión es
+constantemente incrementada. La razón para escoger el cuadro g5 para el alfil
+es prevenir ...f5.}) 18... Nf5 (18... Bb7 {se puede contestar con:} 19. Bxh6)
+19. Bc1 $1 {Ahora el blanco amenaza g4-g5 y la posición negra parece difícil
+de jugar. La continuación pudiera ser:} g6 20. Qh3 h5 21. g4 hxg4 22. Qxg4 $36
+{el blanco tiene una peligrosa iniciativa.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.08.19"]
+[Round "?"]
+[White "B) 8...Cbc6"]
+[Black "?"]
+[Result "*"]
+[ECO "C18"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "rnbq1rk1/pp2nppp/4p3/2ppP3/3P2Q1/P1PB4/2P2PPP/R1B1K1NR b KQ - 0 8"]
+[PlyCount "3"]
+[EventDate "2017.??.??"]
+
+8... Nbc6 {Esta solía ser la línea principal mas debatida en la defensa
+Francesa, cuando la variante del peón envenenado se consideraba excesivamente
+arriesgada y era generalmente evitada por los fuertes profesionales. Pero a
+medida que la teoría evolucionó, vimos un completo revertimiento en las
+respectivas fortunas de los 2 sistemas, y en los días actuales no hay muchos
+fuertes grandes maestros que se atrevan a seguir este camino con negras. Creo
+que este debe mayormente a la cruda naturaleza de la moda, aunque hay algunas
+razones concretas detrás del rechazo de los jugadores fuertes por esta línea.}
+9. Qh5 {Esta es una importante movida que remplazado completamente a la una
+vez popular:} (9. Nf3 {la movida solía ser uno de los intentos principales de
+las blancas, hasta que fue descubierto que las complicaciones luego de:} f5 10.
+exf6 Rxf6 11. Bg5 e5 $1 {no son desfavorables a las negras.}) 9... -- {El
+negro tiene 2 modos razonables de lidiar con la amenaza de mate en uno:} ({B1)
+} 9... Nf5) ({B2)} 9... Ng6) (9... h6 $2 {esta movida demasiado provocativa
+fue refutada hace 2 decádas.} 10. Bxh6 gxh6 11. Qxh6 Nf5 12. Bxf5 exf5 13.
+O-O-O $1 {el negro tiene una defensa sin esperanzas aquí, aunque cierto grado
+de exactitud es requerido.} c4 (13... f4 {es rápidamente aplastado luego de:}
+14. Nh3 Ne7 15. Ng5 Bf5 16. g4 $1 Be4 17. Rhe1 Qb6 18. e6 Bg6 19. Rd3 {y el
+negro abandonó en Maus - Hubner, Lugano 1989.}) 14. Nh3 f6 15. Qg6+ Kh8 16.
+Rde1 $1 $146 {esta novedad no es requerida pero es una buena idea en cualquier
+caso.} (16. Rhe1 {se jugó por Vogt in 1989, pero yo confio en Houdini para
+encontrar un camino mas limpio hacia la victoria.}) 16... fxe5 17. Re3 f4 (
+17... Qh4 18. Rg3 Qh7 19. Qd6 $1 $18 {la torre esta bajo fuego y Cg5 esta
+viniendo.}) 18. Rg3 $1 {es por esto que vale la pena mantener una torre en h1.
+El negro puede abandonar.}) *
+

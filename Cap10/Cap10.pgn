@@ -1,0 +1,496 @@
+[Event "?"]
+[Site "?"]
+[Date "2018.02.19"]
+[Round "?"]
+[White "- Índice de Variantes"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[PlyCount "22"]
+[SourceDate "2018.02.19"]
+
+{Capítulo 10: 7...cxd4 - Introducción y 8...Db6.} 1. e4 e6 2. d4 d5 3. Nc3 Nf6
+4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4 Qb6 9. Qd2 Qxb2 10. Rb1 Qa3
+11. Bb5 -- ({A)} 11... Ndb8 $6) ({B)} 11... Nxd4 12. Bxd4 -- ({B1)} 12... Bb4
+$6) ({B2)} 12... a6 13. Bxd7+ Bxd7 14. Rb3 Qe7 15. Rxb7 Qh4+ 16. Bf2 ({B21)} 
+16. g3 $5) 16... Qd8 17. Bb6 Qc8 18. Rc7 Qd8 19. Qd4 -- ({B221)} 19... Rc8 $5)
+({B222)} 19... Rb8 20. -- ({B2221)} 20. Kd2 $1 $146) ({B2222)} 20. Ke2 $1 $146)
+) (19... Ba3 $1))) *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.02.19"]
+[Round "?"]
+[White "Pos. Crítica 1"]
+[Black "?"]
+[Result "*"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "rnb1k2r/pp3ppp/2n1p3/qBbpP3/3N1P2/PRN1B3/2PQ2PP/5RK1 w kq - 0 15"]
+[PlyCount "1"]
+[SourceDate "2018.02.19"]
+
+{A) luego de 14...Ac5.} 15. f5 $1 $146 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.02.19"]
+[Round "?"]
+[White "Pos. Crítica 2"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "2b1kb1r/4qpp1/pB2p3/3pP3/3Q1P1p/2N3P1/P1PK3P/1R6 w k - 0 25"]
+[PlyCount "1"]
+[SourceDate "2018.02.19"]
+
+{B221) nota a 23...Dd7.} 25. g4 $1 $146 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.02.19"]
+[Round "?"]
+[White "Pos. Crítica 3"]
+[Black "?"]
+[Result "*"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "1r1qkb1r/2Rb1ppp/pB2p3/3pP3/3Q1P2/2N5/P1P3PP/4K2R w Kk - 0 20"]
+[PlyCount "1"]
+[SourceDate "2018.02.19"]
+
+{B222) luego de 19...Tb8} 20. Kd2 $1 $146 ({ó} 20. Ke2 $1 $146) *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.02.19"]
+[Round "?"]
+[White "- Introducción"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[PlyCount "22"]
+[SourceDate "2018.02.19"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 {Este es el enfoque hipermoderno contra la variante Steinitz, propagada en
+tiempos modernos por un jugador que personifica tales enfoques concretos:
+Hikaru Nakamura. El negro pretende capturar un peón sin prestar atención a su
+desarrollo, o cualquiera de tales reglas mundanas muy similares a la famosa
+variante del peón envenenado del Najdorf. Esto ha servido admirablemente bien
+contra alguna oposición de élite, pero sus resultados han sido en parte
+gracias al valor sorpresa del sistema negro ademas de las novedades bien
+investigadas del GM americano. Creo que si el blanco esta consciente de los
+finos detalles de esta variante, causará mas problemas al negro que en la
+ilustre prima de esta variante en el Najdorf. Antes de continuar consideremos
+algunas de las opciones menores del negro en la jugada 8.} (8... Bb4 {no
+debería preocupar al blanco, ya que luego de un cambio en c3, la debilidad del
+segundo jugador en los cuadros negros será mas relevante que los peones
+doblados c.} 9. Be2 Qa5 10. O-O Bxc3 11. Nb3 $1 Qa4 12. bxc3 b6 13. Nd4 $14 {
+Bolding - Costa, Francia 2003. Tales posiciones son típicamente mas fáciles de
+jugar con blancas, y f4-f5 es una fuerte amenaza que se aproxima.}) (8... Nxd4
+9. Bxd4 Nb8 {Esto ha sido jugado en cerca de 100 partidas, pero el blanco
+obtiene un juego fácil, como los siguientes ejemplos demuestran:} 10. Bd3 Nc6
+11. Bf2 g6 (11... Qa5 12. O-O Bc5 13. Nb5 Bxf2+ 14. Rxf2 O-O 15. Nd6 h6 16. Qh5
+Qb6 17. g4 $1 Nb4 18. g5 Nxd3 19. cxd3 g6 20. Qxh6 $16 {Van der Wiel -
+Miralles, Budel 1987.}) 12. a3 Bd7 13. O-O b6 14. Nb5 $1 {Una típica idea
+fuerte que ha sido empleada muchas veces.} a6 15. Nd6+ Bxd6 16. exd6 Qb8 17.
+Qe2 (17. c4 $5 $146 {bien pudiera ser una mejora.}) 17... Qxd6 18. Bxa6 O-O 19.
+Bd3 e5 20. fxe5 Nxe5 21. Bd4 Ng4 22. g3 $14 {El negro tiene una isla de peones
+extra y debilidades en los cuadros negros, Fedorowicz - Lein, Las Vegas 1992.})
+9. Qd2 (9. Ncb5 {lleva a fuegos artificiales temporales que podrían diluirse
+en varios jaques perpetuos.}) 9... Qxb2 10. Rb1 Qa3 11. Bb5 {La posición negra
+es demasiado sólida para que las ideas con Cb5 causen cualquier problema.
+Luego de la movida textual el negro acostumbra a jugar:} -- ({A)} 11... Ndb8 $6
+{de vez en cuando pero hoy en día:}) ({B)} 11... Nxd4 {es casi jugado
+universalmente.}) *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.02.19"]
+[Round "?"]
+[White "A) 11...Cdb8?!"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[PlyCount "33"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.02.19"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 {A)} Ndb8 $6 {Aparte de lucir dudosa, esta
+es genuinamente una mala movida ya que el negro se toma demasiadas libertades
+con su desarrollo.} 12. O-O Bb4 (12... Qa5 {fue jugado en una ocasión por un
+joven Vallejo pero luego de} 13. f5 {el blanco obtiene una fuerte iniciativa.})
+(12... a6 {Esta ha sido la jugada mas popular pero cae en una hermosa
+combinación:} 13. f5 $1 axb5 ({Otras movidas llevan a un colapso mas repentino,
+por ejemplo:} 13... Bb4 14. Rb3 Qa5 15. Bxc6+ Nxc6 {Esto fue Betkowski -
+Kawecki, Polonia 1999 y ahora luego de} 16. Qf2 $1 $146 Nxd4 17. Bxd4 Bxc3 18.
+Bxc3 Qc7 19. Bb4 $1 {el negro esta en el borde la derrota.}) 14. fxe6 Bxe6 15.
+Nxe6 fxe6 16. Nxb5 Qa5 17. Qf2 Nxe5 18. Bb6 Qa4 19. c4 $1 {Una adorable jugada
+de ataque. Tomar el peón abre líneas extras, mientras que ahora las amenazas
+de De2 y Df4 son extremadamente fuertes.} Na6 20. Qf4 Qxc4 21. Qxe5 {el blanco
+prontó ganó el duelo chino en Gao - Liu, Qinhuangdao 2011.}) 13. Rb3 Qa5 14. a3
+$1 (14. f5 {se ha jugado varias ocasiones, pero es mas exacto darle un toque
+al alfil primero.}) 14... Bc5 {El negro tiene una elección poco atractiva,
+como demuestrán las siguientes líneas:} (14... Be7 $146 15. f5 $1 {Ahora que
+ninguna de las piezas blancas esta en problemas, esto ofrece una seria
+iniciativa.} a6 16. Bxc6+ Nxc6 17. Qf2 Nxd4 18. Bxd4 $36) (14... Bxc3 $146 15.
+Rxc3 O-O 16. Rb1 {Nada esta colgando de inmediato, pero la substancial ventaja
+en desarrollo del blanco pagará dividendos tarde o temprano. Un ataque en el
+FR es un plan tentadoramente especial como puede usted ver debajo.} Re8 (16...
+Nxd4 17. Bxd4 Bd7 18. Bxd7 Nxd7 19. f5 $1 exf5 20. e6 fxe6 21. Bxg7 {da a las
+blancas un ataque ganador.}) 17. Bd3 $1 a6 {El blanco amenazaba Cb5.} 18. Bxh7+
+$1 {Una combinación brillante, aunque desde una perspectiva teórica es
+dificilmente esencial ya que el blanco poseería una fuerte iniciativa incluso
+sin ella.} Kxh7 19. Nxc6 Nxc6 20. Bb6 Qa4 21. Qf2 $1 Rh8 22. Rb4 $1 {El blanco
+remueve el caballo a la vez que mantiene una torre en la 3ra fila.} (22. Rxc6 {
+solo entabla.}) 22... Nxb4 23. Qh4+ {Es mate dentro de algunas movidas.}) 15.
+f5 $1 $146 {Esto es lo mas fuerte aunque Bologan obtuvo una buena posición
+luego de la mas restringida:} (15. Qf2 Bb6 16. f5 exf5 17. Nxd5 Bxd4 18. Bxd4
+Be6 19. c4 $14 {Bologan - Volkov, Rethymnon 2003.}) 15... O-O (15... a6 16.
+fxe6 fxe6 17. Nxc6 Bxe3+ 18. Qxe3 bxc6 19. Ba4 {deja al blanco con una
+poderosa iniciativa.}) 16. Bxc6 bxc6 17. f6 $1 {El ataque blanco debe decidir
+la partida.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.02.19"]
+[Round "?"]
+[White "B) 11...Cxd4 12.Axd4"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[PlyCount "24"]
+[SourceDate "2018.02.19"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 {B)} Nxd4 12. Bxd4 {El negro evita la
+pérdida de tiempo asociada con la línea previa y cambia un par de piezas. En
+la otra mano, el alfil de cuadros negros de las blancas tiene un rol mas
+influyente y su dama puede acercarse mas al FR luego de f4-f5. El negro tiene
+2 opciones principales:} -- (12... Bb4 $6 {que solía ser la línea principal
+cuando la reputación de la línea 8...Db6 aún estaba en duda.}) ({Sin embargo,
+su avatar moderno esta basado en:} 12... a6) *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.02.19"]
+[Round "?"]
+[White "B1) 12...Ab4?!"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[PlyCount "47"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.02.19"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 Nxd4 12. Bxd4 {B1)} Bb4 $6 13. Rb3 Qa5 14.
+a3 (14. O-O {merece atención también. Definitivamente el blanco tiene buena
+compensación aqui pero yo prefiero la opción mas forzada.}) 14... Be7 (14...
+Bxa3 $2 15. Nxd5 {es malo para el negro.}) 15. f5 $1 exf5 16. Nxd5 Qxd2+ (16...
+Bh4+ {alcanza la misma posición luego de} 17. Kd1 ({o} 17. Ke2) 17... Qxd2+ 18.
+Kxd2 Bd8 {la única diferencia siendo la cantidad de movidas.}) 17. Kxd2 Bd8 18.
+c4 $5 (18. Rg3 {se ha jugado mas a menudo - pero da al negro mas aire para
+respirar que la jugada textual.}) 18... a6 (18... O-O 19. Bxd7 Bxd7 20. Rxb7
+Bc6 21. Rxa7 {deja a las blancas con un peón extra.}) 19. Bxd7+ $1 (19. Ba4 {
+ha sido jugada por Nijboer, pero luego de} O-O {el blanco no tiene un camino
+claro para abrirse camino.}) 19... Bxd7 $146 {Esto es una mejora definitiva
+sobre:} (19... Kxd7 {que le permite al blanco obtener un control total con un
+esquema brillante que fue demostrado en una partida por correspondencia:} 20.
+Bb6 $1 Kc6 21. Kc3 Re8 (21... Be6 22. Kd4 $14) 22. Rd1 Be6 23. a4 $1 Rc8 24. a5
+Bxd5 25. cxd5+ Kd7+ 26. Kd4 {el negro sufrió y eventualmente cayó en
+Koronowski - Niewold, corr. 2009.}) 20. Rxb7 {El negro tiene varias
+continuaciones posibles, pero es difícil para él activar cualquiera de sus
+alfiles debido al efecto sofocante que provoca el caballo en d5. Sus peones
+del FR no son muy útiles por ahora, mientras que el peón c blanco tiene mayor
+potencial. El blanco puede mantener su posición sólida con Rd3-d4, a la vez
+que implementa ideas como Thb1 y Tb8, o Ab6. Presentaré algunas variantes mas
+para demostrar esos planes, aunque usted debe tener en mente que estas movidas
+no son forzadas para ningún bando.} h5 $5 {La sugerencia de la computadora
+para activar la torre en h8 tiene sentido, incluso cuando luce artificial.} (
+20... Bc6 {es la respuesta mas natural del negro.} 21. Rb2 O-O (21... h5 22.
+Rf1 g6 23. Kd3 $14) 22. Kd3 Re8 23. Rhb1 {el blanco se propone Tb8 a
+continuación, y el negro esta enfrentando problemas con sus incómodas piezas.}
+Ba5 24. Bb6 $1 Bxb6 25. Rxb6 Bxd5 26. cxd5 Rxe5 (26... g5 27. Kd4 $18) 27. Rb8+
+Re8 28. Rxa8 Rxa8 29. d6 $1 {El blanco intenta Rc4-d5 con excelentes chances
+de victoria.}) (20... Bc8 21. Rb2 Be6 {es un intento de poner el alfil en un
+mejor cuadro. Ahora hay posibilidades de crear contrajuego con ...f4 en
+respuesta a Rd3 y Tb1 del blanco. Sin embargo, el blanco puede modificar
+fácilmente su plan para evitar esto.} 22. Kd3 Rc8 23. Bb6 $1 (23. Rhb1 f4 $1)
+23... O-O 24. Kd4 h5 25. Rhb1 $14 {el blanco continuá mejorando su posición a
+la vez que restringe el juego negro.}) 21. Rhb1 Rc8 22. Kd3 Rh6 23. Rb8 Rhc6 {
+El negro esta a tiempo de reagrupar pero no ha igualado aún.} 24. c5 $14 (24.
+Rxc8 Rxc8 25. Ba7 $5 {con idea de Rd4, es una manera ligeramente mas
+restringida de continuar mejorando. El negro permanece a la defensiva.} ({ó} 
+25. Bb6)) *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.02.20"]
+[Round "?"]
+[White "B2) 12...a6"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[PlyCount "31"]
+[SourceDate "2018.02.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 Nxd4 12. Bxd4 a6 {Varios fuertes grandes
+maestros utilizaron esta jugada antes que Nakamura, pero fue el americano
+quien alteró drásticamente la percepción de esta línea utilizandola
+regularmente al nivel mas alto - y sobreviviendo! No mucho antes de que este
+libro saliera hacia la imprenta, Simen Adgestein la utilizó en un torneo de
+clase mundial en Noruega puntuando 2 tablas consecutivas con negras contra
+Karjakin y Grischuk. Sin embargo, ningunos de esos supers GM siguieron mi
+recomendación para el blanco.  Como usted verá a través del resto del capítulo,
+el blanco tiene varias maneras interesantes de desafiar al negro, y muchas de
+esas maneras aún estan inexploradas. Señalaré algunas de esas ideas, pero a mi
+entender el camino mas fácil es seguir varias partidas modelos claves, dado
+que el negro no parece tener completa igualdad de acuerdo a la teoría actual.}
+13. Bxd7+ Bxd7 14. Rb3 {Una movida importante para prevenir el rápido
+desarrollo del negro.} (14. Rxb7 Bb4 15. O-O Bc8 $1 {deja al negro escapar del
+gancho.}) 14... Qe7 ({Algunos jugadores han cometido el blunder:} 14... Qa5 $4
+{cuando} 15. Bb6 {gana la dama.}) 15. Rxb7 Qh4+ {Nakamura también ha intentado:
+} (15... Qd8 {pero esto parece una idea práctica para confundir al blanco, y
+no ha sido retomada por muchos otros jugadores, o incluso Naka mismo. Yo
+sugiero la sencilla} 16. Bb6 {transponiendo a la línea principal B22 analiza
+mas adelante. Si el blanco prefiere mayormente la variante B21 mas abajo y no
+le gusta ser desviado de ella, entonces puede considerar desviarse con:} (16.
+O-O $5 {como Grischuk hizó con Adgestein. El blanco tiene prospectos decentes
+aqui también, pero dado que he analizado la primera recomendación en detalle,
+dejare para los lectores interesados que conduzcan su propio análisis de esta
+línea.})) {Este jaque es un poco incómodo y fuerza al blanco a hacer alguna
+concesión en el FR. Ahora tenemos 2 elecciones. La primera opción involucra un
+salto a lo desconocido con complicaciones extremas luego de: B21)} 16. g3 {A
+pesar de ser el intento maximalista, a esto se le ha dado mucho menos atención
+de lo que merece. Sin embargo mi recomendación principal es:} ({B22)} 16. Bf2 {
+que lleva a un tipo de posición mas estable con una iniciativa en el final
+para el blanco.}) ({Karjakin optó por} 16. Qf2 {contra Adgestein, pero falló
+en lograr algo especial y después tuvo que luchar fuerte por las tablas.}) *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.02.24"]
+[Round "?"]
+[White "B21) 16.g3!?"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[PlyCount "49"]
+[SourceDate "2018.02.24"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 Nxd4 12. Bxd4 a6 13. Bxd7+ Bxd7 14. Rb3 Qe7
+15. Rxb7 Qh4+ {B21)} 16. g3 $5 {No intentaré brindar una cobertura extensiva
+de las complicaciones resultantes de esta jugada, pero mencionaré algunos
+puntos importantes para el beneficio de jugadores interesados. Incluso si
+usted pretende ir por la variante B22, podría tener valor tener esta como una
+segunda opción en caso de que alguien se figure un esquema defensivo a prueba
+de balas en el final eventual luego de 16.Af2.} Qh3 (16... Qd8 {da a las
+blancas una variante mejorada de la variante B22, con la útil movida g2-g3
+incluida. La textual solo se ha jugado una vez por lo que hay mucho espectro
+para un análisis fresco.}) 17. Rf1 $1 {con la primitiva amenaza de f4-f5.
+Tengo que admitir que mi parte cavernícola sencillamente adora esta línea,
+pero es muy dificil sacar conclusiones ya que el negro tiene un montón de
+posibilidades. Presentaré mis hallazgos para las continuaciones mas obvias,
+pero ciertamente hay mucho espacio para explorar.} (17. Nd1 $5 {con idea de
+Ce3 es otra línea interesante. La dama permanece cortada en h3, aunque es
+difícil convencer a la computadora de que el blanco tiene algo mas que "0.00",
+por lo que la dejare hasta aquí.}) 17... Bc8 {Es peligroso ignorar la torre,
+por ejemplo:} (17... Rc8 18. f5 Bc6 (18... Be7 {se contesta con} 19. Rf2 $36 {
+con idea de Ce2-f4. Un plan similar fue utilizado en una partida por
+correspondencia mencionada mas abajo, pero aqui el blanco tiene una mejor
+versión. La movida textual es la sugerencia de la computadora, pero es
+incómoda.}) 19. Ra7 Bd7 (19... exf5 20. Qe3 $1 {da a las blancas demasiada
+iniciativa.}) {Ahora el blanco tiene varias opciones, pero la siguiente parece
+la línea mas promisoria:} 20. Rf4 Bb4 21. a3 Bxa3 22. Ne4 $5 (22. Bb6 {es
+interesante también, pero la textual tiene un punto realmente hermoso.}) 22...
+Rb8 23. Bb2 $3 {Un momento orgulloso para la computadora! El lector puede
+explorar esto en mas profundidad si lo desea, pero no creo que debamos avanzar
+mucho mas, ya que toda la variante parece muy frágil para el negro.}) 18. Rb6
+$5 {En la partida Zolochevsky - Shatkovsky citada mas abajo, el blanco repitió
+la posición con} (18. Rb3 Bd7 19. Rb7 Bc8 {antes de jugar} 20. Rb6 {para
+mantenerlo simple yo sugeriré hacerlo sin las 2 jugadas innecesarias.}) 18...
+Be7 19. f5 Bd8 $1 $146 {Esta es la defensa mas resistente.} (19... Bd7 {Luego
+de esta jugada el blanco ganó una asombrosa partida por correspondencia. (El
+conteo de movidas en dicha partida fue 2 movidas mas alto debido a la
+mencionada repitición, pero la numeración ha sido ajustada para que encaje en
+nuestra línea principal aquí.)} 20. Rf2 $1 {preparando Ce2.} Bd8 21. Rb7 Rc8
+22. Ne2 (22. Nxd5 $5 {luce tentadora pero confío en el juicio de nuestro amigo
+por correspondencia.} exd5 23. e6 fxe6 24. Bxg7 Bc6 25. Qe3 $1 Bxb7 26. Qxe6+
+Be7 27. Re2 Rc7 28. Bxh8 Qg4 {El blanco esta mejor y la línea pudiera
+analizada aún mas, pero encuentro la continuación de la partida mas lógica.})
+22... Rc4 ({Luego de} 22... Qg4 23. Qb4 $1 {el negro aún encuentra difícil
+enrocar, y Tf4 viene a continuación.La computadora apoya firmemente al blanco
+aquí.}) 23. Qe3 exf5 24. e6 $1 fxe6 25. Qe5 Qg4 26. Qd6 Bc8 27. Rf4 Qg5 28.
+Rxg7 Qh6 29. h4 a5 30. Rxf5 {el negro abandonó en Zolochevsky - Shatkovsky,
+corr. 2011.}) 20. Rb3 $1 {Hemos alcanzado una posición extremadamente crítica.
+Dado que esta no es mi principal recomendación para el blanco, solo he dado
+algunas jugadas más luego de las respuestas posibles del negro para darle una
+idea de como jugar.} (20. Rd6 {parece un poco extraña y luego de} Be7 {es
+difícil para el blanco encontrar algo útil que hacer con su torre.}) 20... O-O
+(20... Qh5 $2 {encontraría un destino incómodo luego de} 21. Bc5 $1 Bd7 22. Rb7
+{cuando el negro esta amarrado. Una continuación posible es:} Ba5 23. Bb4 Bxb4
+24. Rxb4 {y la torre blanca irá a cazar la dama negra.}) (20... Bd7 $5 {Esta
+es una defensa mas sofisticada, pero tiene el defecto de dar a las blancas
+muchas opciones.} 21. Bb6 $5 {Esta es la sugerencia de la computadora. El
+blanco planea cazar la dama negra y esta buscando el cambio de alfiles con
+vistas a traer una de sus torres al cuadro h4. El blanco tiene otras varias
+ideas que iré mencionando mientras pasan. 21.Ac5 y 21.Tf2 son opciones que la
+computadora no rankea muy alto, aunque ninguna de las 2 es muy fácil de
+evaluar para un humano. Otra idea lógica es 21.f6, cuando el negro puede
+elegir entre 21...gxf6 y 21...g6.} Qg4 (21... Bxb6 22. Rxb6 O-O 23. Rb4 {
+obliga a las negras a aceptar un final chapucero luego de 23...Dh6.}) 22. Rf4
+Qh5 23. Bxd8 Rxd8 24. Qe2 {Incluso cuando el negro evita dañar su estructura
+del FR, el final con caballo contra alfil es mas fácil de jugar para el blanco,
+por ejemplo:} Qxe2+ 25. Kxe2 exf5 26. Rd4 Be6 27. Rb6 h5 28. h4 O-O 29. Rxa6
+Rc8 30. Kd2 Rc5 31. Ne2 $14 {el blanco mantiene una ligera ventaja gracias a
+su mejor pieza menor y peón pasado en a.}) 21. f6 Qh5 (21... gxf6 {se contesta
+con} 22. Bc5 $1 Re8 23. exf6 $40 {seguida de Tb4.}) 22. fxg7 Kxg7 23. Rf2 Kg8
+24. Ne2 a5 25. Nf4 {Prefiero los chances blancos, aunque la posición permanece
+altamente complicada con mucho por explorar. Como hemos visto, dichas líneas
+son extremadamentes interesantes y permanecen casi sin probar en la práctica.
+Queda por ver si 16.g3 será mas relevante teóricamente en el futuro, lo cuál
+podría pasar si el negro encuentra un mejor modo de resolver sus problemas en
+las líneas principales, que son discutidas en el resto del capítulo.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.02.24"]
+[Round "?"]
+[White "B22) 16.Af2"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[PlyCount "38"]
+[SourceDate "2018.02.24"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 Nxd4 12. Bxd4 a6 13. Bxd7+ Bxd7 14. Rb3 Qe7
+15. Rxb7 Qh4+ 16. Bf2 {Considero el siguiente final algo incómodo para el
+negro - en especial para el tipo de jugador que gusta de jugar una línea
+teórica tan intensa.} Qd8 17. Bb6 Qc8 {con el alfil blanco en b6 en vez de d4:}
+(17... Qh4+ $2 18. g3 Qh3 {cae ahora en:} 19. Rxd7 Kxd7 20. Nxd5 Rb8 ({También
+luego de:} 20... Rc8 21. Nf6+ Kc6 22. Nd7 $1 {no hay una buena defensa.}) 21.
+Nf6+ Kc6 {ahora en la partida Nijboer - Kuipers, Dieren 2011, el blanco pudo
+haber ganado rápidamente con:} 22. Qd7+ $146 Kxb6 23. Nd5+ $1 Kc5 24. Kf2 {el
+negro tendrá que entregar su dama o recibir mate en pocas jugadas.}) 18. Rc7
+Qd8 19. Qd4 {Se siente raro tener una tabya teórica con nuestra torre en c7 y
+la dama negra habiendo viajando el tablero entero antes de retornar a su
+casilla original. Sin embargo, la sorprendente verdad es que el negro ahora
+tiene 3 opciones importantes, que analizaremos en ordén ascendente de calidad:}
+-- ({B221)} 19... Rc8 $6) ({B222)} 19... Rb8 {y}) ({B223)} 19... Ba3 $1) ({La
+sencilla movida de desarrollo:} 19... Be7 $2 {no es buena ya que el negro será
+incapaz de continuar con ...Tc8, y el blanco puede jugar} 20. f5 {con una gran
+posición.}) *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.02.26"]
+[Round "?"]
+[White "B221) 19...Tc8?!"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[PlyCount "55"]
+[SourceDate "2018.02.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 Nxd4 12. Bxd4 a6 13. Bxd7+ Bxd7 14. Rb3 Qe7
+15. Rxb7 Qh4+ 16. Bf2 Qd8 17. Bb6 Qc8 18. Rc7 Qd8 19. Qd4 {B221)} Rc8 $6 {Esta
+ha sido la jugada mas popular, y fue jugada por Nakamura contra Vishy Anand y
+Leko, así como contra otros fuertes grandes maestros. A primera vista el negro
+parece estar igualando, pero entonces los jugadores comenzaron a explorarla
+mas creativamente.} 20. Rc6 $1 {Sobre el tablero, Vishy decidió jugar seguro
+con:} (20. Rxc8 Qxc8 21. O-O Qc6 {y los jugadores pronto acordaron tablas.})
+20... Qh4+ (20... Qe7 $146 {no se ha jugado nunca, pero es casi idéntica a la
+línea principal. Parece mas natural provocar g2-g3, de manera que el negro
+tenga opciones como ...h5-h4 en el futuro.} 21. Rxc8+ Bxc8 22. Kd2 $1 {el
+blanco puede proceder de la misma manera que en la línea principal mas abajo.})
+({Una línea mas crítica que cruza la mente es:} 20... Rxc6 $5 $146 {Un
+interesante sacrificio de dama, pero el blanco es capaz de mantener la mano
+fuerte luego de algunas exactitudes:} 21. Bxd8 Rc4 (21... Bc5 $6 {facilita la
+tarea de las blancas:} 22. Qa4 Kxd8 23. Kd2 Ke7 24. Rb1 Rhc8 25. Rb7 {Luego de
+un cambio de un par de torres, la dama extra se vuelve bastante mas poderosa.})
+22. Qa7 Kxd8 23. Ne2 Bc5 (23... Rxc2 24. Qxa6 Bb4+ 25. Kf2 Bc5+ 26. Kf3 {es
+bastante seguro para el blanco que jugará Tb1 a continuación.}) 24. Qb8+ Bc8
+25. c3 $1 {Una idea importante, planeando Cd4. Podemos concluir acertadamente
+que el blanco esta mejor aquí, pero una posible continuación es:} Re8 26. Nd4
+Rxc3 27. Nb3 Re7 28. Nxc5 $1 (28. Kd2 {debe ser mejor para el blanco también,
+pero este enfoque táctico es incluso mas fuerte.}) 28... Rxc5 (28... Rc1+ 29.
+Kd2 Rxh1 30. Nxa6 Rxh2 31. Qd6+ Ke8 32. Nc7+ Rxc7 33. Qxc7 Rxg2+ 34. Ke3 Bd7
+35. Qb8+ Ke7 36. a4 $16 {El peón debe ganar el alfil a cambio lo que deja la
+victoria siendo una cuestión de técnica.})) 21. g3 Qe7 22. Rxc8+ Bxc8 23. Kd2
+$1 {Menos convincente es:} (23. O-O Qb4 {En esta posición el negro aún no ha
+igualado por completo, pero ha logrado sobrevivir en 2 partidas por
+correspondencia, gracias mayormente a que el rey blanco tiene que gastar
+muchos tiempos para alcanzar el FD.} (23... h5 $5 $146 {merece atención
+también.})) {Luego de la textual el plan blanco es simple. Cambiará el alfil
+de cuadros negros apenas pueda, tal vez junto con las damas, para quedarse con
+el excelente caballo contra el problemático alfil de cuadros claros negro. La
+torre blanca entrará rápidamente en el juego a través de la columna b,
+mientras que su rey esta ubicado idealmente para el final también. El negro
+tiene muchas opciones, pero la estrategia blanca permanece mas o menos
+inalterable. Analizaré a mas profundidad para demostrar estas ideas.} 23... Qd7
+(23... Qb4 {conlleva a una versión peor del final luego de:} 24. Rb1 Qxd4+ 25.
+Bxd4 $14 {con idea de Ca4 y Ac5, Laffranchise - Klauner, corr. 2012.}) (23...
+f5 24. Rb1 Kf7 25. Ba5 Qd7 26. Bb4 $14 {también favorece a las blancas.}) (
+23... f6 24. Rb1 Kf7 {es un modo incómodo de continuar el desarrollo. En la
+siguiente partida por correspondencia, el blanco obtuvo una enorme ventaja de
+manera instructiva:} 25. Na4 $1 h5 26. Bc5 Qd8 27. Rb8 Qc7 28. Ra8 Qa5+ 29. Kc1
+Bxc5 30. Nxc5 Qa3+ 31. Kb1 $16 {Broudin - Dubois, email 2011.}) (23... h5 {es
+un intento desesperado por contrajuego, pero no es de uso:} 24. Rb1 h4 {ahora
+el blanco mantuvo una ventaja con} 25. Ba5 {en Ganguly -  Batchuluun, Jakarta
+2013, pero incluso mas fuerte hubiera sido:} (25. g4 $1 $146 {y el negro tiene
+poco que hacer ahora.} Qd7 {se encuentra con} ({mientras que:} 25... h3 26. Na4
+Qd7 27. Bc5 {promete un gran ventaja al blanco.}) 26. Bc5 $14)) 24. Rb1 Be7 25.
+Bc5 $1 O-O 26. Na4 (26. Ne4 dxe4 $1 27. Qxd7 Bxd7 28. Bxe7 {deja al blanco con
+algunas chances de victoria pero pudiera ser sostenible por el negro.}) 26...
+Rd8 27. Bxe7 Qxe7 28. Qb4 $1 $14 {el inevitable final es excelente para el
+blanco.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.02.26"]
+[Round "?"]
+[White "B222) 19...Tb8"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[PlyCount "39"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.02.26"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 Nxd4 12. Bxd4 a6 13. Bxd7+ Bxd7 14. Rb3 Qe7
+15. Rxb7 Qh4+ 16. Bf2 Qd8 17. Bb6 Qc8 18. Rc7 Qd8 19. Qd4 {B222)} Rb8 {Esto se
+ha jugado menos frecuentemente pero considerando que el negro no ha enfrentado
+problemas las partidas prácticas existentes, es una línea importante a
+considerar. El negro tiene una idea bastante sútil: si el blanco enroca
+entonces planea soltar ...Tc8, cuando la respuesta Tc6 se vuelve imposible
+debido a la subsecuente clavada con ...Ac5. De hecho yo encontré 2 maneras de
+mejorar en las partidas existentes:} 20. -- ({B2221)} 20. Kd2 $1 $146 {y}) ({
+B2222)} 20. Ke2 $1 $146 {A pesar de las aparentes similitudes, hay algunas
+diferencias en el juego que se da, por lo que vale la pena considerar ambas
+opciones.}) ({En las 2 partidas hasta ahora, el negro fue capaz de demostrar
+la mencionada idea:} 20. O-O Rc8 $1 {el negro plantea que vale la pena perder
+un tiempo para deshacerse de la incómoda torre y parece estar en lo correcto.}
+21. Rxc8 Qxc8 22. f5 Qc6 {incluso aunque el blanco eventualmente prevaleció en
+Kurnosov - Andreikin, Sochi 2012. El negro tiene varias maneras de mejorar su
+juego y siendo objetivo creo que el negro esta OK aquí.}) *
+

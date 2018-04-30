@@ -1,0 +1,540 @@
+[Event "?"]
+[Site "?"]
+[Date "2017.08.19"]
+[Round "?"]
+[White "- IndÌce de Variantes"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[PlyCount "18"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.08.19"]
+
+{CapÌtulo 9: Defensa Francesa, Variante Steinitz: 7...a6.} 1. e4 e6 2. d4 d5 3.
+Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5 9. dxc5 -- ({A)} 
+9... Nxc5) ({B)} 9... Bxc5 10. Bd3 $5 -- ({B1)} 10... d4 $6) ({B2)} 10... Qb6
+11. Bf2 $1 -- ({B21)} 11... Bxf2+) ({B22)} 11... O-O) ({B23)} 11... b4) ({B24)
+} 11... Bb7 $5))) *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.08.19"]
+[Round "?"]
+[White "Pos. CrÌtica 1"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "r1bqkb1r/5ppp/p1n1p3/1p2P3/4pP2/4BN2/PPP2QPP/R3KB1R w KQkq - 0 12"]
+[PlyCount "1"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.08.19"]
+
+{A) luego de 11...dxe4.} 12. Bb6 $1 $146 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.08.19"]
+[Round "?"]
+[White "Pos. CrÌtica 2"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "r1b4r/3nkppp/p1n1p3/3pP3/Np3P2/3B1N2/PPP2KPP/R6R w - - 0 15"]
+[PlyCount "1"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.08.19"]
+
+{B23) luego de 14...Ke7.} 15. Rhc1 $1 $146 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.08.19"]
+[Round "?"]
+[White "Pos. CrÌtica 3"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "r3k2r/1b1n1ppp/pqn1p3/1pbpP3/5P2/2NB1N2/PPPQ1BPP/R3K2R w KQkq - 0 12"]
+[PlyCount "1"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.08.19"]
+
+{B24) luego de 11...Ab7!?.} 12. a3 $1 $146 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.05.24"]
+[Round "?"]
+[White "- IntroducciÛn"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[PlyCount "18"]
+[EventDate "2017.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 {Este es
+un sistema inmensamente popular para el negro con varios miles de partidas
+dilatandose a travÈs de las 2 ultimas dÈcadas. El plan negro es simple y
+directo y el blanco tiene varias maneras de enfrentarlo. Aqui analizo un
+sistema moderno y sencillo propuesto por Serguey Karjakin para el tratamiento
+de esta posiciÛn.} 8. Qd2 b5 {Expandirse en el FD es obviamente el propÛsito
+principal de la ˙ltima jugada negra, pero vale la pena mencionar otra
+posibilidad:} (8... Qb6 {esta extra√+/-a linea ha sido probada por algunos
+jugadores fuertes, incluido Nyzhnyk, aunque sin mucho √ xito.} 9. O-O-O ({La
+idea negra es:} 9. Na4 Qb4 $5 {cuando logra simplificar la posici√=/+n a un
+final ligeramente peor solamente.}) 9... Qa5 $5 {esta es la idea detr√!s del
+raro orden de movidas negro. En vez de ello:} (9... c4 10. Bxc4 $1 dxc4 11. d5
+Qc7 12. dxc6 Qxc6 13. f5 $1 Qc7 14. fxe6 fxe6 15. Ng5 Nxe5 16. Rhf1 {que fue
+excelente para las blancas en Wojtkiewiczs - Drasko, Polanica Zdroj 1988.}) 10.
+dxc5 Nxc5 11. Kb1 b5 {El negro ha realizado todo este esfuerzo con la idea de
+jugar ...b5-b4 a la vez q mantiene su caballo en c5 sin tener que lidiar con
+un molesto Df2. Una posici√=/+n casi id√ ntica se puede encontrar luego de: 7..
+.Ae7 8.Dd2 a6!? 9.dxc5 Cxc5 10.0-0-0 Da5! 11.Rb1 b5, la √_|nica diferencia
+esta en que debido a la p√ rdida de tiempo con la dama, el alfil esta en f8 en
+vez de e7, lo cual obviamente no beneficia al negro.} 12. f5 $5 {aqui puedo
+jugar 12.Ce2 como en la variante mencionada mas arriba pero el retraso negro
+en el desarrollo de su FR hace tentador jugar al ataque.} Na4 {el negro logra
+cambiar las damas pero a cambio hace un concesi√=/+n estructural.} (12... b4
+13. fxe6 fxe6 14. Ne2 Ne4 15. Qe1 {es placentero para las blancas tambi√ n.})
+13. fxe6 fxe6 14. Nxa4 Qxd2 ({Si el negro no cambia las damas con:} 14... Qxa4
+$2 {entonces Stockfish da una enorme ventaja a las blancas, aunque las razones
+de ello mas bien se plasman algunas jugadas despu√ s.} 15. Nd4 Nxe5 (15... Nxd4
+16. Bxd4 {La dama negra esta relativamente en peligro.} Be7 17. Qf4 Bd7 18. Be2
+O-O-O 19. Qf7 Bg5 20. Qxg7 $18) 16. Bf4 Ng6 17. Bd3 Bc5 18. Bxg6+ hxg6 19. Be5
+O-O 20. Qg5 {da a las blancas una ventaja casi decisiva.}) 15. Rxd2 bxa4 16. a3
+Be7 17. c4 O-O 18. cxd5 exd5 19. Rxd5 {el blanco gan√=/+ un pe√=/+n por
+compensaci√=/+n limitada en Volokitin - Nyzhnyk, Mamaia 2013.}) 9. dxc5 (9. a3
+{es la otra gran linea principal pero la movida principal es la recomendada
+por Negi en conjunci√=/+n con la idea de Karjakin.}) 9... -- {A partir de
+aqu√^^ el negro tiene las siguientes opciones:} ({A)} 9... Nxc5 {y}) ({B)} 9...
+Bxc5 {que es por mucho la gran linea principal.}) ({No tiene mucho sentido
+recapturar el pe√=/+n de modo mas complicado con:} 9... b4 10. Na4 Qa5 11. Nb6
+Nxb6 12. cxb6 Bc5 {que se jugo en algunas ocasiones en los a√+/-os 90 pero el
+blanco obtiene una buena partida luego de:} 13. Bxc5 Qxc5 14. Qf2 {El blanco
+obtendr√! una excelente versi√=/+n de un final ya favorable ya que el negro
+deber√! invertir algunos tiempos mas en recuperar el pe√=/+n.} Qxf2+ 15. Kxf2
+Rb8 16. c4 $5 $146 bxc3 17. bxc3 Rxb6 18. Be2 $14 {El control blanco sobre la
+posici√=/+n es obvio, el pe√=/+n c aislado no es d√ bil verdaderamente y el
+primer jugador puede mejorar su posici√=/+n con jugadas como Tab1 √=/+ Re3
+seguido de c3-c4 √=/+ Cd4.}) *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.05.25"]
+[Round "?"]
+[White "A) 9...Cc5"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "r1bqkb1r/3n1ppp/p1n1p3/1pPpP3/5P2/2N1BN2/PPPQ2PP/R3KB1R b KQkq - 0 9"]
+[PlyCount "17"]
+[EventDate "2017.??.??"]
+
+9... Nxc5 {Esto tiene mas sentido que 9...b4 aunque desde un punto de vista
+te√=/+rico es igualmente irrelevante como intento de igualdad.} 10. Qf2 Ne4 {
+Negi se enfoca en esta movida ya que ha obtenido buenos resultados pr√!cticos
+y parece la manera mas l√=/+gica de justificar el juego previo de las blancas.}
+(10... Nd7 {ha sido la movida mas popular del negro pero mover el caballo
+hacia atr√!s y adelante parece il√=/+gico.}) (10... b4 {debe contestarse con:}
+11. Bxc5 bxc3 12. b3 $1 {La movida clave, el blanco evita debilitar su
+estructura y el pe√=/+n en c3 se puede convertir en un objetivo mas adelante.}
+Qa5 13. Bxf8 Rxf8 14. Bd3 Qb4 15. Qe3 Bb7 16. a3 Qe7 17. Qb6 {el blanco tuvo
+una ventaja obvia en Kravtvi - Chaouvet, Marsella 2011.}) 11. Nxe4 dxe4 12. Bb6
+$1 $146 {Esta peque√+/-a intermedia refuta el juego negro mas o menos.} ({Casi
+todas las partidas han continuado:} 12. Nd2 {pero luego de:} Bb7 {el blanco no
+tiene un modo f√!cil de capturar el pe√=/+n.}) 12... Qd5 {Si la dama negra se
+marcha a otro sitio entonces 13.Cd2 o 13.Cg5 ganara el pe√=/+n en e4.} 13. Ng5
+Be7 (13... f5 {lleva a un bonito golpe t√!ctico.} 14. exf6 gxf6 15. Be2 h5 (
+15... fxg5 16. Bh5+ Ke7 17. Rd1 {y el negro tiene que entregar la dama para
+evitar el mate.}) 16. O-O fxg5 17. fxg5 Qf5 18. Qh4 Qh7 19. Rf6 $1 {La amenaza
+de g5-g6 da a las blancas un ataque ganador.}) 14. Rd1 Qxa2 15. Nxe4 {El
+material esta parejo pero las piezas blancas estan ubicadas excelentemente y
+la dama negra no tiene un retorno al juego f√!cil.} Qxb2 (15... O-O 16. c3 {es
+genial para las blancas.}) 16. Bd3 O-O 17. O-O {Las amenazas contra la dama
+negra combinado con amenazas como Cf6+ dan a las blancas una tremenda ventaja.
+Por ejemplo:} -- ({La jugada de desarrollo:} 17... Bb7 $2 {falla tras:} 18. Rb1
+Qa2 19. Nc3 Qa3 20. Rb3 $18 {y la dama negra sucumbe.}) (17... Bd7 $2 18. Rb1
+$18) ({Lo mejor parece ser:} 17... Nb4 $142 {pero tras:} 18. Bd4 Nxd3 (18...
+Qa2 $143 $2 19. Nf6+ $1 Bxf6 (19... gxf6 20. exf6 Rd8 21. fxe7 $18) 20. Bxh7+
+$1 Kxh7 21. exf6 Qxc2 22. Qh4+ Kg8 23. fxg7 Qh7 24. gxf8=Q+ Kxf8 25. Qd8#) 19.
+Rxd3 Qa2 20. Nf6+ Bxf6 21. exf6 $16 {el blanco tiene un ataque demoledor.}) *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.05.25"]
+[Round "?"]
+[White "B) 9...Axc5"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "r1bqkb1r/3n1ppp/p1n1p3/1pPpP3/5P2/2N1BN2/PPPQ2PP/R3KB1R b KQkq - 0 9"]
+[PlyCount "3"]
+[EventDate "2017.??.??"]
+
+9... Bxc5 10. Bd3 $5 {Esta sorprendente movida llamo la atenci√=/+n cuando fue
+utilizada por Karjakin contra Magnus Carlsen en 2011 a la ciega y aunque solo
+entablo aquella partida la utilizo 3 veces mas con un balance de 2 victorias y
+2 tablas. El plan principal del blanco es jugar contra el alfil c8 de las
+negras, mientras el contrajuego negro (d√^^gase las rupturas ...f6 √=/+ ...g5)
+se mantenga bajo control, virtualmente cualquier final favorecera a las
+blancas si se trata de un caballo contra el alfil malo de las negras. En
+ocasiones la computadora podra no concordar con esta opini√=/+n pero la
+posici√=/+n blanca es mas c√=/+moda de jugar y se puede mejorar poco a poco
+mientras que la posici√=/+n de las negras se puede sentir sofocante.} ({Para
+entender la importancia del orden de movidas de Karjakin, vale la pena
+comparar con la continuaci√=/+n mas popular:} 10. Bxc5 Nxc5 11. Qf2 (11. Bd3 {
+es mas natural pero el negro jugar√!:} Qb6 {evitando el 0-0 de las blancas y
+obligando al primer jugador a jugar igualmente Df2.}) 11... Qb6 12. Bd3 {esta
+es una importante l√^^nea te√=/+rica pero luego de ...b4, ...a5 y ...Aa6, el
+negro resuelve el vital problema de cambiar el alfil malo. En la linea
+principal Karjakin utiliza un sofisticado sistema para obtener una mejor
+versi√=/+n de la linea anterior sin tener q comprometer el plan de Ad3 y 0-0.})
+10... -- ({Aparentemente el negro puede ganar una pieza con: B1)} 10... d4 $6 {
+por lo que esta continuaci√=/+n debe ser analizada.}) ({B2)} 10... Qb6 {es la
+linea principal.}) *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.05.25"]
+[Round "?"]
+[White "B1) 10...d4?!"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "r1bqk2r/3n1ppp/p1n1p3/1pbpP3/5P2/2NBBN2/PPPQ2PP/R3K2R b KQkq - 0 10"]
+[PlyCount "14"]
+[EventDate "2017.??.??"]
+
+10... d4 $6 {Esta jugada es la raz√=/+n de que la 10ma movida blanca no fuera
+bien investigada hasta recientemente pero resulta q no es bueno para las
+negras. Incluso Topalov cayo en esta trampa en una ocasi√=/+n.} 11. Nxd4 $1
+Nxd4 {Otras movidas no son mejores:} (11... Qb6 12. Be4 $1 Nxd4 (12... Bb7 13.
+O-O-O Rd8 (13... b4 14. Na4 $18) 14. Qf2 O-O (14... Ndxe5 15. fxe5 Nxd4 16.
+Bxb7 Qxb7 17. Bxd4 $18) 15. Kb1 Nxd4 16. Bxd4 Bxd4 17. Qxd4 Nc5 18. Qe3 Rc8 (
+18... b4 19. Na4 Nxa4 20. Qxb6 Nxb6 21. Bxb7) 19. Rhe1 Qc7 20. Bxb7 Qxb7 21. g4
+$16) 13. Bxa8 Nf3+ 14. Bxf3 Bxe3 15. Qd6 {el blanco tiene un final c√=/+modo
+con una calidad de m√!s.}) (11... Bxd4 12. Bxd4 Nxd4 13. Be4 Nxc2+ 14. Qxc2 $14
+{, deja a las blancas con una placentera iniciativa tambi√ n.}) 12. Ne4 $1 {La
+movida clave.} (12. Be4 $2 {se jugo en Li Chao - Vovk, Shenzhen 2011 y aqui el
+negro perdi√=/+ la oportunidad de voltear la mesa con:} Nb6 $1) 12... Qh4+ (
+12... O-O {ocurrio en Van Weeser - Paulet, Amsterdam 2013. La continuaci√=/+n
+mas exacta del blanco es:} 13. c3 $1 {N.} Nf3+ (13... Qh4+ 14. Qf2 Qxf2+ 15.
+Kxf2 {deja a las blancas con un pe√=/+n extra luego de recuperar la pieza.})
+14. gxf3 Bxe3 15. Qxe3 Qh4+ 16. Kd2 $1 $16 {El blanco tiene un pe√=/+n extra e
+iniciativa por la columna g, el rey mal ubicado no es un gran asunto ya que es
+temporal.}) 13. Bf2 Qg4 $6 {esta fue la elecci√=/+n de Topalov pero solo lleva
+a mas problemas.} (13... Nxc2+ {ha sido jugada pero luego de la correcta:} 14.
+Bxc2 {No cayendo en:} (14. Qxc2 Bb4+) 14... Bxf2+ 15. Qxf2 Qxf2+ 16. Kxf2 {el
+negro esta muy lejos de la igualdad en el final.}) 14. Bxd4 Bxd4 15. Nd6+ Ke7
+16. Be4 Bxb2 17. Rb1 {el blanco gano f√!cilmente en Karjakin- Topalov,
+Sberbank (rapid) 2013.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.05.25"]
+[Round "?"]
+[White "B2) 10...Db6"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "r1bqk2r/3n1ppp/p1n1p3/1pbpP3/5P2/2NBBN2/PPPQ2PP/R3K2R b KQkq - 0 10"]
+[PlyCount "3"]
+[EventDate "2017.??.??"]
+
+10... Qb6 11. Bf2 $1 {Mantener la tensi√=/+n al retirar el alfil es la idea
+clave tras la variante 10.Ad3. El blanco se niega a regalarle un tiempo a las
+negras con ...Cxc5, en vez de ello invita al segundo jugador a cambiar alfiles
+luego de lo cual la dama blanca ocupa su casilla ideal. Si el negro no cambia
+alfiles entonces el blanco puede continuar con enroque y un desarrollo normal.}
+(11. Bxc5 {transpondria a las l√^^neas cl√!sicas con 10.Axc5.}) 11... -- ({
+Comienzo el an√!lisis mirando a: B21)} 11... Bxf2+ {que lleva a un final donde
+el negro tiende a sufrir. El resto de las opciones son:}) (11... O-O) (11... b4
+) (11... Bb7 $5 {en las tres √_|ltimas variantes el negro postpone el cambio
+de alfiles buscando mejorar sus chances pero incluso asi el blanco puede
+causar problemas.}) *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.05.25"]
+[Round "?"]
+[White "B21) 11...Axf2+"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "r1b1k2r/3n1ppp/pqn1p3/1pbpP3/5P2/2NB1N2/PPPQ1BPP/R3K2R b KQkq - 0 11"]
+[PlyCount "20"]
+[EventDate "2017.??.??"]
+
+11... Bxf2+ 12. Qxf2 {esto da a las blancas un juego c√=/+modo, ya sea q se
+cambien o no las damas.} Qxf2+ (12... Bb7 {esto no tiene mucho sentido, si el
+negro desea poner su alfil en b7 deberia hacerlo sin cambiar damas en b6 que
+hace mas dif√^^cil a las blancas encontrar una buena movida de espera.} 13. Ne2
+{Aqui el negro deberia cambiar las damas y defender un final inferior pero en
+la siguiente partida se nego a hacerlo y pago el precio :} Nc5 14. O-O O-O 15.
+Kh1 b4 $6 {Ignorando el peligro en el FR. el negro debio hacer profilaxis con:}
+(15... h6 {aunque el blanco tiene buenos prospectos luego de 16.f5 o la
+preliminar 16.Tae1.}) 16. Bxh7+ $1 Kxh7 17. Qh4+ Kg8 18. Ng5 Rfc8 19. f5 $1
+Nxe5 20. f6 $1 gxf6 21. Rxf6 Kf8 22. Raf1 Rc7 23. Nd4 Ke8 {Ahora en Kahirullin
+- Goganov, San Petersburg 2012 el blanco debio haber jugado:} 24. Qg3 {El
+negro debe retornar la pieza o sufrir una calamidad en f7 o e6, en cualquier
+caso el blanco debe ganar la partida.}) 13. Kxf2 {Similares ejemplos de este
+final de pueden encontrar en muchas variantes de la Defensa Francesa, aunque
+no muchos a partir de esta posici√=/+n exacta. En cualquier caso el blanco
+tiene una c√=/+moda versi√=/+n aqui con Ce2 y Cd4 viniendo y ning√_|n
+contrajuego a la vista para el negro. El ejemplo a continuaci√=/+n muestra
+juego instructivo del blanco incluso sin que el negro opusiera la mayor
+resistencia posible.} Nc5 (13... Ke7 14. Ne2 $14) 14. Ne2 $1 b4 15. Ke3 Rb8 16.
+Ned4 Nxd4 17. Kxd4 $1 {Excelente uso del rey.} Na4 18. b3 Nc3 19. a3 $1 Nb5+
+20. Bxb5+ Rxb5 21. Kd3 {y el blanco gan√=/+ el final facilmente de caballo
+dominante contra alfil malo en Areschenko- Boersma, Groningen 2004.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.05.25"]
+[Round "?"]
+[White "B22) 11...0-0"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "r1b1k2r/3n1ppp/pqn1p3/1pbpP3/5P2/2NB1N2/PPPQ1BPP/R3K2R b KQkq - 0 11"]
+[PlyCount "8"]
+[EventDate "2017.??.??"]
+
+11... O-O {Esto es bastante raro ya que permite a las blancas la tentadora
+idea de evitar el cambio de damas y jugar para atacar en el FR.} ({Una
+situaci√=/+n similar ocurre en la variante:} 11... Bb7 $5 12. a3 O-O {que
+probablemente sea una ligera mejora para el negro ya que ...Ab7 es una movida
+de desarrollo mas √_|til que a3.}) 12. O-O Bxf2+ 13. Rxf2 $1 {Ahora las
+blancas tienen el plan obvio de Te1 y f4-f5. Tambi√ n es posible provocar
+algunas debilidades amenazando Axh7+, adicionalmente se puede consolidar en el
+centro con Ce2 y Cd4.} ({Vale la pena mencionar que:} 13. Qxf2 {da a las
+blancas una versi√=/+n inferior del final visto en la variante anterior ya que
+Tf1 del blanco no es muy √_|til mientras que ...0-0 del negro ciertamente si
+lo es. La diferencia puede ser sentida en la l√^^nea:} Qxf2+ 14. Kxf2 f6 $1 15.
+exf6 Rxf6 {Normalmente esta estructura es favorable al blanco pero aqui el
+primer jugador no puede mantener su cerrojo central.} 16. g3 b4 17. Na4 e5 {y
+el negro tiene mas que suficiente contrajuego.}) 13... Nc5 {esta truquera idea
+fue utilizada en la √_|nica partida existente en esta l√^^nea.} (13... Bb7 {da
+a las blancas una placentera elecci√=/+n:} 14. -- (14. a3 {transpone a la
+linea principal de la variante B24 que se alcanza mediante el orden 11...Ab7
+12.a3! 0-0 13.0-0 Axf2+ 14.Txf2. Aunque las blancas mantienen una iniciativa
+en esa l√^^nea si el presente orden de movidas ocurre entonces es mas l√=/
++gico continuar con 14.Te1 con idea de f4-f5.}) ({Finalmente vale la pena
+mencionar que:} 14. Bxh7+ $5 {luce bastante peligroso pero dif√^^cilmente sea
+existoso contra defensa exacta. Asi q es mejor ir por alguna de las jugadas
+tranquilas de arriba.})) 14. Qe3 $1 $146 {El blanco tiene que encontrar esta
+importante idea para mantener su posici√=/+n compacta. Se amenaza Axh7+ y se
+clava caballo a c5 evitando asi inc√=/+modos saltos a e4.} (14. Re1 $1 b4 $2
+15. Ne2 Ne4 {dio ventaja a las negras en Riff - Dallin, Lille 2013.}) (14. a3
+b4 15. axb4 Qxb4 {no es nada especial para el blanco tampoco.}) 14... h6 (14...
+d4 15. Bxh7+ $1 Kxh7 16. Ng5+ Kg8 17. Qh3 Rd8 18. Qh7+ Kf8 19. Qh8+ Ke7 20.
+Qxg7 Rf8 21. Nce4 {da a las blancas un ataque ganador.}) 15. Ne2 {El blanco
+planea C2d4 con el tipo de cerrojo central t√^^pico, posteriormente puede
+seguir f4-f5 con ataque.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.05.25"]
+[Round "?"]
+[White "B23) 11...b4"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "r1b1k2r/3n1ppp/pqn1p3/1pbpP3/5P2/2NB1N2/PPPQ1BPP/R3K2R b KQkq - 0 11"]
+[PlyCount "20"]
+[EventDate "2017.??.??"]
+
+11... b4 {Esta ha sido la elecci√=/+n de grandes nombres incluyendo a Wesley
+So, Ding Liren, Vladimir Potkin e incluso Magnus Carlsen, aunque este √_|ltimo
+solo la utilizo en una partida a ciegas. La idea del negro es apuntar al final
+de partida t√^^pico pero con el caballo blanco ligeramente mal ubicado en a4,
+en oposici√=/+n a la t√^^pica casilla e2 desde donde apunta al cuadro d4. Aun
+asi Negi plantea que esto no cambia mucho la esencia de la posici√=/+n.} 12.
+Na4 Bxf2+ 13. Qxf2 Qxf2+ 14. Kxf2 {Ahora la principal preocupaci√=/+n del
+negro concierne a su rey, deber√^^a √ l enrocar corto o dejarlo en el centro?.
+En cualquier caso el plan del blanco es ubicar una torre en c1 y abrir la
+posici√=/+n con c2-c3.} Ke7 (14... a5 {se prepara para cambiar el alfil malo
+pero es demasiado lento.} 15. Rac1 Ba6 16. Bxa6 Rxa6 17. c4 $1 bxc3 18. Rxc3
+Ke7 {ahora en Karjakin - Carlsen, Monaco 2011 (a ciegas), el blanco pudo haber
+obtenido una clara ventaja con:} 19. a3 $1 {seguido de Thc1.}) (14... Bb7 15.
+Rac1 O-O 16. Rhe1 {previniendo la ruptura negra con ...f6.} Rfc8 (16... f6 17.
+exf6 Rxf6 18. Kg3 Ne7 (18... Raf8 19. Ng5 $16) 19. Ne5 Nxe5 20. fxe5 Nf5+ 21.
+Bxf5 Rxf5 22. Nc5 Bc8 23. c4 bxc3 24. Rxc3 Rb8 25. b3 $14) 17. c3 $1 $146 {El
+negro pasa trabajo para encontrar un plan claro luego de esta movida y su rey
+esta alejado de la acci√=/+n.} ({Karjakin decidi√=/+ tomar las cosas con calma
+con:} 17. h4 {permitiendo} Ne7 18. Nd4 Bc6 $1 19. Nxc6 Rxc6 {y habiendo
+cambiado su alfil problem√!tico el negro quedo OK en Karjakin - So, Khanty
+Mansyk 2011.}) 17... bxc3 (17... a5 18. Bb5 $14) 18. Rxc3 Nb4 19. Bb1 $14 {,
+el blanco mantiene una iniciativa placentera.}) 15. Rhc1 $1 $146 {Esta es la
+torre correcta pero vale la pena comparar que pasaria si se utilizara la otra
+torre.} (15. Rac1 Bb7 16. c4 $146 {Karjakin opto por:} (16. Rhe1 {en una
+partida r√!pida que gan√=/+ contra Potkin pero no tiene mucho sentido ya que
+el negro no esta amenazando ...f6.}) (16. h4 $5 {es discutiblemente una movida
+de espera m√!s √_|til que la de Karjakin pero es preferible abrir el flanco de
+dama.}) 16... bxc3 17. Rxc3 Nb4 $1 (17... Rhc8 18. a3 $14 {previene el
+contrajuego negro.}) 18. Bb1 Rhc8 19. Rhc1 Rxc3 20. Rxc3 Nc6 21. a3 h6 {El
+negro prepara ...g5. El blanco sigue algo mejor pero el punto principal esta
+que el cambio de un par de torres permite al negro aflojar la presi√=/+n sobre
+su posici√=/+n y mejorar sus chances de defensa. Con eso en mente vale la pena
+ver q sucede si el blanco trae la otra torre a c1.}) 15... Bb7 16. c3 bxc3 17.
+Rxc3 Rhc8 ({Con la torre en a1 en vez de h1:} 17... Nb4 $2 {no funciona ya que
+el pe√=/+n de a2 no esta colgando, el blanco sencillamente juega:} 18. Be2 {
+cuando la excursi√=/+n con el caballo no ha logrado nada y:} Rhc8 $2 19. Rb3 $1
+{gana una pieza.}) 18. a3 $1 {previniendo el salto del caballo.} Na7 {el negro
+trata de cambiar torres de cualquier manera.} (18... a5 19. Bb5 $16 {,
+ciertamente no lo ayuda.}) 19. Rac1 Rxc3 20. Rxc3 Nc6 (20... Rc8 21. Rxc8 Bxc8
+22. Nd4 $14) 21. Ke3 $14 {El blanco tiene claramente una versi√=/+n mejorada
+de la variante con 15.Tac1. Las piezas negras estan en casillas id√ nticas
+pero las blancas han logrado tener su rey en e3 en vez de f2 y su alfil en d3
+en vez de b1. La posici√=/+n del rey blanco le permite jugar Cd4 a
+continuaci√=/+n.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.05.25"]
+[Round "?"]
+[White "B24) 11...Ab7 !?"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[SetUp "1"]
+[FEN "r1b1k2r/3n1ppp/pqn1p3/1pbpP3/5P2/2NB1N2/PPPQ1BPP/R3K2R b KQkq - 0 11"]
+[PlyCount "14"]
+[EventDate "2017.??.??"]
+
+11... Bb7 $5 {esta es la movida de espera mas √_|til del negro y es la
+recomendada en el libro Playing the French. El negro pospone el cambio en f2 a
+la vez que pospone tambi√ n el enroque corto. Esto le quita la esencia al plan
+blanco de 0-0 y Txf2 ya que no habria rey q atacar en el FR.} 12. a3 $1 $146 {
+Si el negro puede esperar tambi√ n el blanco. A primera vista puede no parecer
+la movida mas √_|til del blanco pero ademas de detener ...b4 y ...Cb4, hace
+posible un b4 que ayudar√^^a a frenar el juego negro en el FD.} ({Hasta ahora
+la mayor√^^a ha enrocado, un breve sumario de posibles continuaciones es:} 12.
+O-O Bxf2+ 13. Qxf2 (13. Rxf2 {da r√!pido contrajuego a las negras con:} Nc5 $1
+{si en vez de ello:} (13... Rc8 14. Re1 Ne7 15. b4 $1 O-O 16. Ne2 {es mejor
+para el blanco.}) 14. f5 $5 $146 {Avanzar el pe√=/+n f es cr√^^tico pero el
+negro esta a tiempo:} (14. Re1 b4 $1 {es inc√=/+modo para el negro.}) (14. a3
+Rd8 15. Re1 Ne7 {seguido de ...b4 fue bastante c√=/+modo para las negras en
+Papp- Danielian, Mamaia 2013.}) 14... b4 (14... O-O-O $5 {tambi√ n es posible.}
+) 15. fxe6 fxe6 16. Ne2 Ne4 {con contrajuego.}) 13... Qxf2+ 14. Kxf2 Ke7 {el
+negro fue capaz de obtener posiciones decentes en ambas partidas aqui, una de
+las cuales incluyo una atractiva idea con ...g5 de Ding Liren contra Li Chao.
+Sin embargo en ambas partidas el blanco estuvo demasiado preocupado por ...f6
+y trajo una torre a e1, Negi plantea q debio jugar:} 15. Ne2 $146 {Negi
+plantea que el blanco puede tener chances de obtener la ventaja y las
+posiciones resultantes don similares a las quebse obtienen en la linea 12.a3
+Axf2+ mas abajo.}) 12... O-O {esta parece ser la movida mas √_|til,
+manteniendo la tensi√=/+n. Otras opciones l√=/+gicas son:} (12... Rc8 {es otra
+movida de espera pero el negro pierde la opci√=/+n de enrocar largo.} 13. O-O
+Bxf2+ 14. Rxf2 O-O ({Luego de:} 14... Nc5 15. f5 $1 {el blanco obtiene una
+fuerte iniciativa ya que ...b4 no es posible.}) 15. Re1 Ne7 16. b4 $14 {el
+blanco tiene el simple plan de Ce2 y Cd4.}) (12... b4 {el negro intenta
+obtener una mejor versi√=/+n de 11...b4 ya que el blanco se comprometi√=/+ con
+a3.} 13. axb4 (13. Na4 Bxf2+ 14. Qxf2 Qxf2+ 15. Kxf2 {tambien es posible,
+aunque es preferible jugar aqui c2-c3 mas que a2-a3 como en la l√^^nea B23.
+Sin embargo el blanco tambi√ n mantiene aqui una ligera presi√=/+n.}) 13...
+Bxf2+ (13... Qxb4 14. O-O $14) 14. Qxf2 Qxb4 15. Qd2 O-O (15... Nc5 {se
+contesta con:} 16. O-O {seguido de f4-f5 o Ca4 con iniciativa para las blancas.
+}) 16. Na4 Qxd2+ 17. Kxd2 $14 {el blanco tiene el tipico final favorable.}) (
+12... Bxf2+ {esta es una ligera concesi√=/+n del negro ya que ahora la idea
+blanca con 12.a3 esta justificada.} 13. Qxf2 Qxf2+ 14. Kxf2 {Una posici√=/+n
+ya acostumbrada para las blancas, una manera de mantener e incrementar la
+ventaja pudiera ser:} Ke7 ({Luego de:} 14... f6 15. exf6 gxf6 16. f5 {el
+centro negro colapsa.}) (14... Rc8 15. Ne2 Ke7 16. Ned4 $14 {habiendo ubicado
+sus piezas idoneamente el blanco continuar√! con Re3 y un avance en el FR.})
+15. Ne2 {es bueno mejorar las piezas antes de avanzar los peones.} (15. b4 Rac8
+(15... Nb6 16. Rhb1) 16. Ne2 {es posible pero no hay raz√=/+n para comprometer
+los peones del FD tan pronto.}) (15. g4 h6 16. Rae1 Na5 {da a las negras mas
+actividad de la necesaria.}) 15... Rag8 (15... f6 {puede parecer preocupante a
+primera vista pero el blanco esta listo para lidiar con ella.} 16. exf6+ gxf6
+17. Rhe1 Kf7 18. Ned4 Nxd4 19. Nxd4 Nc5 (19... e5 20. Bf5 $1) 20. b4 Ne4+ 21.
+Kg1 $14 {el blanco esta listo para lanzar su asalto en el FD con a2-a4.}) 16.
+Ned4 (16. h4 {se contesta con:} f6 $1 17. exf6+ gxf6 {cuando el avance del
+pe√=/+n h ha dejado algunos agujeros en el FR de las blancas.}) 16... Nxd4 17.
+Nxd4 g5 18. g3 {el blanco mantiene su cu√+/-a central de peones y puede
+preparar a4-a4 en un futuro.}) 13. O-O Bxf2+ {si el negro desea mantener la
+tensi√=/+n entonces puede considerar:} (13... h6 {que transpone a un par de
+partidas. La respuesta mas sencilla del blanco es:} 14. Rae1 $14 {que sigue
+los caminos de la linea principal. Otra partida contin√_|o:} (14. Bxc5 Nxc5 15.
+Qf2 b4 16. axb4 Nxb4 17. Na4 Nxa4 18. Rxa4 Qxf2+ 19. Kxf2 $14 {y el blanco
+mantuvo una s√=/+lida iniciativa en Vajda - Kosic, Roszke 2011.})) 14. Rxf2 g6
+{Esto detiene la ruptura f4-f5 pero debilita los cuadros negros
+considerablemente. Ahora el blanco puede transferir lentamente su dama y
+caballo hacia el FR o abrirse paso mediante sacrificios con f4-f5.} (14... Nc5
+15. f5 $1 Nxd3 16. Qxd3 exf5 17. Nxd5 Qd8 18. Rd1 $14 {y el blanco ganara un
+pe√=/+n probablemente.}) ({Vale la pena examinar tambi√ n:} 14... h6 15. Re1 $1
+b4 (15... Nc5 16. f5 {es fuerte.}) (15... Rfe8 {prepara ...Cc5 por lo que la
+respuesta:} 16. b4 $14 {tiene sentido. Ahora el blanco esta listo para Ce2 con
+ideas de C2d4 o Cg3 y continuar con Ch5 o f4-f5.}) 16. axb4 {La jugada negra
+es un intento de obtener contrajuego pero el blanco esta listo para manejarla.}
+Nxb4 (16... Qxb4 17. f5 {da a las blancas una fuerte iniciativa.}) 17. Na4 Qa5
+18. b3 $14 {el juego negro esta trabado nuevamente.}) 15. Kh1 Nd4 $5 {un
+interesante intento de la computadora para disrrumpir los planes blancos.} (
+15... Nc5 16. f5 $1 {ya es asesino.}) (15... Rac8 16. Rff1 {da a las blancas
+una potente iniciativa, el plan principal siendo De1-h4.}) 16. Ng5 $1 {La idea
+de esta jugada es que tarde o temprano el negro tendr√! que expulsar al
+molesto caballo con ...h6 el cu√!l felizmente regresara a f3 habiendo
+provocado una importante debilidad en el campo negro. Una ruta alternativa de
+retirada ser√^^a Ch3 con idea de Cf2 y g4 pero tal vez sea demasiada ex√=/
++tica.} ({Jugadores menos aventurados pueden considerar:} 16. Nxd4 Qxd4 17.
+Rff1 {pero entonces} Qb6 $5 {con idea de ...d4 da a las negras cierta
+actividad y lleva a una posici√=/+n dif√^^cil de valorar.} ({En vez de ello:} 
+17... Nb6 18. Ne2 Qc5 19. b4 Qc7 20. Nd4 {deja a las blancas en control.}))
+16... Rac8 17. Re1 Rfd8 {Si el negro se mantiene esperando entonces el blanco
+puede iniciar otra interesante maniobra con:} ({Si:} 17... h6 18. Nf3 Nxf3 19.
+Rxf3 {el pase de torre junto a las nuevas debilidades creadas da a las blancas
+buenas perspectivas.}) 18. Nd1 $5 {el caballo se dirige al FR y aun no esta
+claro cual deber√^^a ser el plan negro.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.05.25"]
+[Round "?"]
+[White "- Conclusiones"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Negi, P."]
+[PlyCount "18"]
+[EventDate "2017.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
+9. dxc5 -- {En este punto de ramificaciÛn:} ({Recapturar con el caballo tiene
+cierto valor sorpresa} 9... Nxc5 {pero no es un intento serio de igualar
+teniendo en cuenta la nueva idea 12.Ab6!N en la lÌnea principal.}) ({La
+mayorÌa del capÌtulo esta concentrado en} 9... Bxc5 {cuando la jugada de
+Karjakin} 10. Bd3 $5 {plantea serios problemas a la defensa.} -- ({El intento
+de ganar una pieza con} 10... d4 $6 {rebota por lo que el punto crÌtico de
+ramificaciÛn ocurre luego de}) (10... Qb6 11. Bf2 $1 {A partir de aqui, lo mas
+importante para el blanco es permanecer flexible en su pensamiento y estar
+dispuesto a jugar en el estilo que demande la posiciÛn. Por lo tanto si el
+negro simplifica a un final, ya sea con la inmediata 11...Axf2+ o luego de la
+preliminar 11...b4 12.Ca4, el blanco utilizar· su control sobre el cuadro d4 y
+mejor alfil para mantener presiÛn a largo plazo. Por otra parte, si el negro
+mantiene la tensiÛn y enroca, el blanco debe evitar cambiar las damas y
+enfocarse en el flanco del rey, donde tiene chances de lanzar un ataque
+exitoso.})) *
+
