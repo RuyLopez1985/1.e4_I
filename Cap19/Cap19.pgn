@@ -267,6 +267,7 @@ las tablas.} *
 [SetUp "1"]
 [FEN "r2n2k1/ppq3pp/4p1b1/3pP3/2pP4/P1P1BN1Q/2PK1PP1/R7 w - - 0 20"]
 [PlyCount "15"]
+[EventDate "2017.??.??"]
 
 20. Rf1 $3 {Luce misterioso ubicar la torre en una columna cerrada pero es
 desde aqui donde mejor apoya la futura ruptura en f4-f5. Esta movida ha sido
@@ -444,10 +445,11 @@ Qf8 32. Qg2 {esta fue la partida modelo: Claridge - Boesenberg, email 2009.} *
 [SetUp "1"]
 [FEN "r1b1qrk1/pp2n1pp/4p1p1/3pP1N1/2pP2QP/P1P1B3/2P2PP1/R3K2R w - - 0 1"]
 [PlyCount "25"]
+[EventDate "2017.??.??"]
 
 {Trayendo el caballo a apoyar la defensa del FR y buscando beneficiarse de la
-pol√^^tica de retrasar...h6 un poco, aunque en realidad no importa mucho.} 1.
-Qe2 {Menos convincente es:} (1. a4 a5 $1 {como se jugo en Karjakin - Vallejo,
+polÌtica de retrasar...h6 un poco, aunque en realidad no importa mucho.} 1. Qe2
+{Menos convincente es:} (1. a4 a5 $1 {como se jugo en Karjakin - Vallejo,
 Bilbao 2012. En este caso el plan de...De2 y g2-g4 puede ser contestado con un
 r√!pido...Ad7xa4 y contrajuego en el FD. Karjakin opt√=/+ por reagrupar su
 alfil a a3 pero esto tomo tiempo importante y Vallejo tuvo ventaja aunque
@@ -463,26 +465,26 @@ juego.} h6 4. Nh3 Qe7 5. Qg3 Bd7 6. f4 Be8 7. Kd2 b5 8. f5 $1 gxf5 9. g5 h5 10.
 g6 {el blanco gan√=/+ una buena partida Nijboer - Harikrishna, Wijk Aan Zee
 2001. Obviamente el juego negro puede ser mejorado y es dif√^^cil conducir un
 ataque tan directo contra un m√=/+dulo pero en general los chances blancos son
-mayores y su posici√=/+n m√!s f√!cil de conducir.}) 2. g4 {La situaci√=/+n
-aqu√^^ es similar a la variante previa C1 donde la mejor continuaci√=/+n negra
-es...h6 transponiendo luego de Ch3 a una posici√=/+n considerada en la
-variante siguiente C32. Si por otro lado el negro lleva a cabo su contrajuego
-en el FD sin jugar...h6 entonces es muy lento.} b5 (2... Qd8 {pierde tiempo
-con la dama y en la siguiente partida, el blanco pronto se abri√=/+ paso:} 3.
-Kd2 b5 4. h5 gxh5 5. Rxh5 (5. Nxh7 $5 Kxh7 6. Rxh5+ Kg6 7. Rah1 Kf7 8. Bg5 {
-tambi√ n funciona.}) 5... h6 6. Rah1 Ng6 7. Nh3 {con ventaja decisiva en
-Almasi-Lputian Kemer 2007.}) 3. Kd2 $1 {el blanco retrasa h4-h5 una movida con
-la idea de responder a g4xh5 con el golpe Cxh7.} a5 $146 {En la √_|nica
-partida(por correspondencia ) en alcanzar esta posici√=/+n el negro jug√=/+ 17.
-..Dd8 transponiendo a Almasi-Lputian vista anteriormente. La textual parece
-m√!s l√=/+gica pero choca contra una respuesta familiar:} 4. h5 gxh5 5. Nxh7 $1
-{20.Txh5 da una iniciativa fuerte tambi√ n pero el sacrificio es m√!s fuerte.}
-Kxh7 6. Rxh5+ Kg8 7. Rah1 b4 ({Luego de:} 7... Ng6 8. f4 $1 {el blanco esta
-dominando y el negro no tiene respuesta a las amenazas Tg5 y Dh2.}) 8. Rh8+ Kf7
-9. R8h7 $1 Kg8 10. Bg5 $1 {una vez m√!s el blanco continua como si el
-contrajuego negro no existiera.} Ng6 (10... bxc3+ 11. Kxc3 {no da esperanzas a
-las negras tampoco.}) 11. f4 $1 Kf7 12. Qf3 bxc3+ 13. Kxc3 {con las amenazas
-incluyendo f5 o Af6 el blanco esta ganando.} *
+mayores y su posici√=/+n m√!s f√!cil de conducir.}) 2. g4 {La situaciÛn aquÌ
+es similar a la variante previa C1 donde la mejor continuaciÛn negra es...h6
+transponiendo luego de Ch3 a una posiciÛn considerada en la variante siguiente
+C32. Si por otro lado el negro lleva a cabo su contrajuego en el FD sin jugar..
+.h6 entonces es muy lento.} b5 (2... Qd8 {pierde tiempo con la dama y en la
+siguiente partida, el blanco pronto se abriÛ paso:} 3. Kd2 b5 4. h5 gxh5 5.
+Rxh5 (5. Nxh7 $5 Kxh7 6. Rxh5+ Kg6 7. Rah1 Kf7 8. Bg5 {tambiÈn funciona.}) 5...
+h6 6. Rah1 Ng6 7. Nh3 {con ventaja decisiva en Almasi-Lputian Kemer 2007.}) 3.
+Kd2 $1 {El blanco retrasa h4-h5 una movida con la idea de responder a g4xh5
+con el golpe Cxh7.} a5 $146 {En la ˙nica partida (por correspondencia ) en
+alcanzar esta posiciÛn el negro jugÛ 17. ..Dd8 transponiendo a Almasi-Lputian
+vista anteriormente. La textual parece m·s lÛgica pero choca contra una
+respuesta familiar:} 4. h5 gxh5 5. Nxh7 $1 (5. Rxh5 {da una iniciativa fuerte
+tambiÈn pero el sacrificio es m·s fuerte.}) 5... Kxh7 6. Rxh5+ Kg8 7. Rah1 b4 (
+{Luego de:} 7... Ng6 8. f4 $1 {el blanco esta dominando y el negro no tiene
+respuesta a las amenazas Tg5 y Dh2.}) 8. Rh8+ Kf7 9. R8h7 $1 Kg8 10. Bg5 $1 {
+Una vez m·s el blanco continua como si el contrajuego negro no existiera.} Ng6
+(10... bxc3+ 11. Kxc3 {no da esperanzas a las negras tampoco.}) 11. f4 $1 Kf7
+12. Qf3 bxc3+ 13. Kxc3 {Con amenazas que incluyen f5 o Af6 el blanco esta
+ganando.} *
 
 [Event "?"]
 [Site "?"]

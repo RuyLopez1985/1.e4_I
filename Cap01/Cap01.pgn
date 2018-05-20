@@ -83,8 +83,9 @@ este capítulo vamos a analizar:} -- ({A)} 3... h6) ({B)} 3... a6) ({C)} 3...
 Be7) ({D)} 3... Nc6) (3... c5 $2 {puede ser una respuesta decente contra la
 variante Tarrasch pero no tiene sentido contra el caballo en c3.} 4. exd5 exd5
 5. dxc5 d4 (5... Bxc5 6. Qxd5 {gana un peón para el blanco.}) 6. Bb5+ Nc6 7.
-Qe2+ Be6 8. Ne4 $16 {esto ha sido varias veces pero no vale la pena analizarlo
-en detalle puesto que el blanco ya tiene una ventaja considerable.}) *
+Qe2+ Be6 8. Ne4 $16 {esto ha sido jugado varias veces pero no vale la pena
+analizarlo en detalle puesto que el blanco ya tiene una ventaja considerable.})
+*
 
 [Event "?"]
 [Site "?"]
@@ -151,4 +152,26 @@ Qc8 19. c6 $1 Bxc6 20. e6 $1 {se jugó en Groves - Richard, email 2011.}) 15.
 Be3 O-O 16. dxc5 dxc4 17. Bxc4 Qxd1 18. Rfxd1 Be6 19. Nd2 Nd5 20. Bd4 Nf4 21.
 Bf1 {el negro quedó bajo presión y eventualmente cayó en Siemes - Bascetta,
 corr. 2008.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.01"]
+[Round "?"]
+[White "B) 3...a6"]
+[Black "?"]
+[Result "*"]
+[ECO "C10"]
+[Annotator "Negi, P."]
+[PlyCount "8"]
+[SourceDate "2018.05.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 a6 {Aquí también, la idea negra se basa en ...Cf6-e4,
+por lo que lidiaremos con ella de modo similar a 3...h6.} 4. Bd3 $1 (4. a3 {
+tiene menos sentido aqui, ya que luego de} Nf6 {el ...a6 del negro es bastante
+útil.}) 4... Nc6 (4... Nf6 5. e5 Nfd7 6. Nce2 $1 {El blanco va a alcanzar su
+esquema soñado con c2-c3, la siguiente partida lo demuestra claramente:} c5 7.
+c3 Nc6 8. f4 cxd4 9. cxd4 Qb6 10. Nf3 Bb4+ 11. Bd2 f6 12. O-O Be7 13. Kh1 Nf8
+14. exf6 Bxf6 15. f5 $16 {Dvirnyy - Sibilio, Turin 2010.}) (4... c5 5. dxc5
+Bxc5 6. exd5 exd5 7. Nxd5 Bxf2+ 8. Kxf2 Qxd5 9. Qf3 {también deja al blanco
+con una sólida ventaja.}) *
 
